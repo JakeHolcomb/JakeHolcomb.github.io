@@ -40,4 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="Resume.docx">My Resume</a><br><br>
 My Programs<br>
-<a href="CS2Game.zip">Computer Science 2 Educational Game Project</a>
+<a href="CS2Game.zip">Computer Science 2 Educational Game Project</a><br><br>
+<a href="TicTacToe.zip">TicTacToe</a>
